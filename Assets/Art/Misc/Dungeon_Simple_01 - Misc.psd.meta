@@ -1,0 +1,3623 @@
+fileFormatVersion: 2
+guid: 3028371b07d6cc64b90ca423033e7a98
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5316199906679643458
+    second: Dungeon_Simple_01 - Misc_0
+  - first:
+      213: -529814043357651536
+    second: Dungeon_Simple_01 - Misc_1
+  - first:
+      213: -4300066339907217127
+    second: Dungeon_Simple_01 - Misc_2
+  - first:
+      213: 3745337195348264770
+    second: Dungeon_Simple_01 - Misc_3
+  - first:
+      213: -1134417126063140392
+    second: Dungeon_Simple_01 - Misc_4
+  - first:
+      213: -3665414901559191492
+    second: Dungeon_Simple_01 - Misc_5
+  - first:
+      213: 1802351807297203345
+    second: Dungeon_Simple_01 - Misc_6
+  - first:
+      213: -5066774186489454154
+    second: Dungeon_Simple_01 - Misc_7
+  - first:
+      213: -486994012616498923
+    second: Dungeon_Simple_01 - Misc_8
+  - first:
+      213: -110814824060581839
+    second: Dungeon_Simple_01 - Misc_9
+  - first:
+      213: 6995158022895889011
+    second: Dungeon_Simple_01 - Misc_10
+  - first:
+      213: -1870455136478990916
+    second: Dungeon_Simple_01 - Misc_11
+  - first:
+      213: 8529195134409145714
+    second: Dungeon_Simple_01 - Misc_12
+  - first:
+      213: -5600351313709328419
+    second: Dungeon_Simple_01 - Misc_13
+  - first:
+      213: 1919551030458528979
+    second: Dungeon_Simple_01 - Misc_14
+  - first:
+      213: -777366144241727033
+    second: Dungeon_Simple_01 - Misc_15
+  - first:
+      213: -6248236324072508624
+    second: Dungeon_Simple_01 - Misc_16
+  - first:
+      213: 1820967211994062456
+    second: Dungeon_Simple_01 - Misc_17
+  - first:
+      213: 8573778009667460409
+    second: Dungeon_Simple_01 - Misc_18
+  - first:
+      213: 2475766306989430184
+    second: Dungeon_Simple_01 - Misc_19
+  - first:
+      213: 2265273349649703991
+    second: Dungeon_Simple_01 - Misc_20
+  - first:
+      213: 4014383721106823596
+    second: Dungeon_Simple_01 - Misc_21
+  - first:
+      213: 5956716354954883227
+    second: Dungeon_Simple_01 - Misc_22
+  - first:
+      213: 3261645710563790604
+    second: Dungeon_Simple_01 - Misc_23
+  - first:
+      213: -9155613613855067995
+    second: Dungeon_Simple_01 - Misc_24
+  - first:
+      213: -3497109192750380189
+    second: Dungeon_Simple_01 - Misc_25
+  - first:
+      213: -4292989060466906327
+    second: Dungeon_Simple_01 - Misc_26
+  - first:
+      213: 6922225410952471669
+    second: Dungeon_Simple_01 - Misc_27
+  - first:
+      213: 7079603512687142474
+    second: Dungeon_Simple_01 - Misc_28
+  - first:
+      213: -5611646191885934004
+    second: Dungeon_Simple_01 - Misc_29
+  - first:
+      213: -8438172773873550440
+    second: Dungeon_Simple_01 - Misc_30
+  - first:
+      213: 6724792527734593198
+    second: Dungeon_Simple_01 - Misc_31
+  - first:
+      213: 2495755388910621919
+    second: Dungeon_Simple_01 - Misc_32
+  - first:
+      213: 304138652579271145
+    second: Dungeon_Simple_01 - Misc_33
+  - first:
+      213: 1400532294105507628
+    second: Dungeon_Simple_01 - Misc_34
+  - first:
+      213: -4808877044261181694
+    second: Dungeon_Simple_01 - Misc_35
+  - first:
+      213: -7283200236395689447
+    second: Dungeon_Simple_01 - Misc_36
+  - first:
+      213: 7355320437434762186
+    second: Dungeon_Simple_01 - Misc_37
+  - first:
+      213: 2872215735944738950
+    second: Dungeon_Simple_01 - Misc_38
+  - first:
+      213: 9105181701103616179
+    second: Dungeon_Simple_01 - Misc_39
+  - first:
+      213: -8860250955195951013
+    second: Dungeon_Simple_01 - Misc_40
+  - first:
+      213: 1270947743888287202
+    second: Dungeon_Simple_01 - Misc_41
+  - first:
+      213: -1240227178978640683
+    second: Dungeon_Simple_01 - Misc_42
+  - first:
+      213: 8355784865965039457
+    second: Dungeon_Simple_01 - Misc_43
+  - first:
+      213: 307350028234879065
+    second: Dungeon_Simple_01 - Misc_44
+  - first:
+      213: 2863790059244893190
+    second: Dungeon_Simple_01 - Misc_45
+  - first:
+      213: 644322452290827836
+    second: Dungeon_Simple_01 - Misc_46
+  - first:
+      213: 8286069615342276492
+    second: Dungeon_Simple_01 - Misc_47
+  - first:
+      213: -6587209678124236695
+    second: Dungeon_Simple_01 - Misc_48
+  - first:
+      213: 3129860788820952800
+    second: Dungeon_Simple_01 - Misc_49
+  - first:
+      213: 3103875071196692709
+    second: Dungeon_Simple_01 - Misc_50
+  - first:
+      213: -2717338363070326193
+    second: Dungeon_Simple_01 - Misc_51
+  - first:
+      213: -8542427442283436262
+    second: Dungeon_Simple_01 - Misc_52
+  - first:
+      213: -6685540779950610933
+    second: Dungeon_Simple_01 - Misc_53
+  - first:
+      213: -1699248517315382200
+    second: Dungeon_Simple_01 - Misc_54
+  - first:
+      213: 4335732619116321361
+    second: Dungeon_Simple_01 - Misc_55
+  - first:
+      213: 5709809055432748803
+    second: Dungeon_Simple_01 - Misc_56
+  - first:
+      213: 9789136315421611
+    second: Dungeon_Simple_01 - Misc_57
+  - first:
+      213: 1916218290910774193
+    second: Dungeon_Simple_01 - Misc_58
+  - first:
+      213: 315731379164580535
+    second: Dungeon_Simple_01 - Misc_59
+  - first:
+      213: 2629632214162725528
+    second: Dungeon_Simple_01 - Misc_60
+  - first:
+      213: -5774906205448888786
+    second: Dungeon_Simple_01 - Misc_61
+  - first:
+      213: 2922748904486268193
+    second: Dungeon_Simple_01 - Misc_62
+  - first:
+      213: 1478585910814134850
+    second: Dungeon_Simple_01 - Misc_63
+  - first:
+      213: -4871482613248894157
+    second: Dungeon_Simple_01 - Misc_64
+  - first:
+      213: -8693028611990500146
+    second: Dungeon_Simple_01 - Misc_65
+  - first:
+      213: 7142650080992635295
+    second: Dungeon_Simple_01 - Misc_66
+  - first:
+      213: 7365884777966196660
+    second: Dungeon_Simple_01 - Misc_67
+  - first:
+      213: -4768080436041882595
+    second: Dungeon_Simple_01 - Misc_68
+  - first:
+      213: 5329752236510608927
+    second: Dungeon_Simple_01 - Misc_69
+  - first:
+      213: 6490795139017641526
+    second: Dungeon_Simple_01 - Misc_70
+  - first:
+      213: -7971425858485426954
+    second: Dungeon_Simple_01 - Misc_71
+  - first:
+      213: -2264442372661986972
+    second: Dungeon_Simple_01 - Misc_72
+  - first:
+      213: -2734559055349965439
+    second: Dungeon_Simple_01 - Misc_73
+  - first:
+      213: 5831250091667921268
+    second: Dungeon_Simple_01 - Misc_74
+  - first:
+      213: -8179926509950659665
+    second: Dungeon_Simple_01 - Misc_75
+  - first:
+      213: 8653089377888981141
+    second: Dungeon_Simple_01 - Misc_76
+  - first:
+      213: -2097814130289639507
+    second: Dungeon_Simple_01 - Misc_77
+  - first:
+      213: 3509931850331929030
+    second: Dungeon_Simple_01 - Misc_78
+  - first:
+      213: 5121936219483212942
+    second: Dungeon_Simple_01 - Misc_79
+  - first:
+      213: 6703836704682264206
+    second: Dungeon_Simple_01 - Misc_80
+  - first:
+      213: 4476196209655068473
+    second: Dungeon_Simple_01 - Misc_81
+  - first:
+      213: -2804689949310191280
+    second: Dungeon_Simple_01 - Misc_82
+  - first:
+      213: 2361405215120590304
+    second: Dungeon_Simple_01 - Misc_83
+  - first:
+      213: -7681490382185302147
+    second: Dungeon_Simple_01 - Misc_84
+  - first:
+      213: 5309111344050298590
+    second: Dungeon_Simple_01 - Misc_85
+  - first:
+      213: 5937138186867322413
+    second: Dungeon_Simple_01 - Misc_86
+  - first:
+      213: -6597176585538665947
+    second: Dungeon_Simple_01 - Misc_87
+  - first:
+      213: 2140472096184689924
+    second: Dungeon_Simple_01 - Misc_88
+  - first:
+      213: 389060120015134799
+    second: Dungeon_Simple_01 - Misc_89
+  - first:
+      213: -2701222388313559454
+    second: Dungeon_Simple_01 - Misc_90
+  - first:
+      213: -9059498066599175164
+    second: Dungeon_Simple_01 - Misc_91
+  - first:
+      213: 228966501237758881
+    second: Dungeon_Simple_01 - Misc_92
+  - first:
+      213: -7717270377586678827
+    second: Dungeon_Simple_01 - Misc_93
+  - first:
+      213: -5034518617273022860
+    second: Dungeon_Simple_01 - Misc_94
+  - first:
+      213: 6032493843539039606
+    second: Dungeon_Simple_01 - Misc_95
+  - first:
+      213: 554588517570911775
+    second: Dungeon_Simple_01 - Misc_96
+  - first:
+      213: 8258403344287532980
+    second: Dungeon_Simple_01 - Misc_97
+  - first:
+      213: 1278983111994744636
+    second: Dungeon_Simple_01 - Misc_98
+  - first:
+      213: -2777583258883205906
+    second: Dungeon_Simple_01 - Misc_99
+  - first:
+      213: 2981616078193589759
+    second: Dungeon_Simple_01 - Misc_100
+  - first:
+      213: -1259685701968920348
+    second: Dungeon_Simple_01 - Misc_101
+  - first:
+      213: -2101987169835953886
+    second: Dungeon_Simple_01 - Misc_102
+  - first:
+      213: -6993965859390752910
+    second: Dungeon_Simple_01 - Misc_103
+  - first:
+      213: 7725699394486883555
+    second: Dungeon_Simple_01 - Misc_104
+  - first:
+      213: 5932830452394292476
+    second: Dungeon_Simple_01 - Misc_105
+  - first:
+      213: 177190986256343095
+    second: Dungeon_Simple_01 - Misc_106
+  - first:
+      213: 7458899689961570895
+    second: Dungeon_Simple_01 - Misc_107
+  - first:
+      213: 7847313699574677058
+    second: Dungeon_Simple_01 - Misc_108
+  - first:
+      213: -2343995365121016085
+    second: Dungeon_Simple_01 - Misc_109
+  - first:
+      213: 232182973968743270
+    second: Dungeon_Simple_01 - Misc_110
+  - first:
+      213: 3751950005537552225
+    second: Dungeon_Simple_01 - Misc_111
+  - first:
+      213: 5186564900972660927
+    second: Dungeon_Simple_01 - Misc_112
+  - first:
+      213: 2258774655218454612
+    second: Dungeon_Simple_01 - Misc_113
+  - first:
+      213: -1681216180121641193
+    second: Dungeon_Simple_01 - Misc_114
+  - first:
+      213: -2151512949157209025
+    second: Dungeon_Simple_01 - Misc_115
+  - first:
+      213: -1168346361053760625
+    second: Dungeon_Simple_01 - Misc_116
+  - first:
+      213: -7470933701328843541
+    second: Dungeon_Simple_01 - Misc_117
+  - first:
+      213: 881366430545534696
+    second: Dungeon_Simple_01 - Misc_118
+  - first:
+      213: 6176971228342560030
+    second: Dungeon_Simple_01 - Misc_0
+  - first:
+      213: -8593165181270860683
+    second: Dungeon_Simple_01 - Misc_1
+  - first:
+      213: 8480476405427297818
+    second: Dungeon_Simple_01 - Misc_2
+  - first:
+      213: -2050290462701417241
+    second: Dungeon_Simple_01 - Misc_3
+  - first:
+      213: 492141982354578232
+    second: Dungeon_Simple_01 - Misc_4
+  - first:
+      213: -7961024524586199282
+    second: Dungeon_Simple_01 - Misc_5
+  - first:
+      213: -265490001418498928
+    second: Dungeon_Simple_01 - Misc_6
+  - first:
+      213: 3318027304043782021
+    second: Dungeon_Simple_01 - Misc_7
+  - first:
+      213: -3052758458379268986
+    second: Dungeon_Simple_01 - Misc_8
+  - first:
+      213: -2096378831143071390
+    second: Dungeon_Simple_01 - Misc_9
+  - first:
+      213: -565176588483816493
+    second: Dungeon_Simple_01 - Misc_10
+  - first:
+      213: -1169157719904682130
+    second: Dungeon_Simple_01 - Misc_11
+  - first:
+      213: -9137452266631851402
+    second: Dungeon_Simple_01 - Misc_12
+  - first:
+      213: -1519209883428360280
+    second: Dungeon_Simple_01 - Misc_13
+  - first:
+      213: -2477076392589221221
+    second: Dungeon_Simple_01 - Misc_14
+  - first:
+      213: 7634959515694828635
+    second: Dungeon_Simple_01 - Misc_15
+  - first:
+      213: 8322683289071441620
+    second: Dungeon_Simple_01 - Misc_16
+  - first:
+      213: -7808805943626142049
+    second: Dungeon_Simple_01 - Misc_17
+  - first:
+      213: -3921009931342290429
+    second: Dungeon_Simple_01 - Misc_18
+  - first:
+      213: 3941868426647384772
+    second: Dungeon_Simple_01 - Misc_19
+  - first:
+      213: 561541846891100084
+    second: Dungeon_Simple_01 - Misc_20
+  - first:
+      213: 2874538184222268677
+    second: Dungeon_Simple_01 - Misc_21
+  - first:
+      213: 1769517608747957324
+    second: Dungeon_Simple_01 - Misc_22
+  - first:
+      213: 5194658092953880327
+    second: Dungeon_Simple_01 - Misc_23
+  - first:
+      213: -2229749507178319645
+    second: Dungeon_Simple_01 - Misc_24
+  - first:
+      213: 6717107525243130189
+    second: Dungeon_Simple_01 - Misc_25
+  - first:
+      213: 7035649280642472538
+    second: Dungeon_Simple_01 - Misc_26
+  - first:
+      213: -477248434683586601
+    second: Dungeon_Simple_01 - Misc_27
+  - first:
+      213: -2631921450239987215
+    second: Dungeon_Simple_01 - Misc_28
+  - first:
+      213: 4817100165039664923
+    second: Dungeon_Simple_01 - Misc_29
+  - first:
+      213: -186521430916683251
+    second: Dungeon_Simple_01 - Misc_30
+  - first:
+      213: 8246123738829970912
+    second: Dungeon_Simple_01 - Misc_31
+  - first:
+      213: 8034805008390792153
+    second: Dungeon_Simple_01 - Misc_32
+  - first:
+      213: 4109394947933032023
+    second: Dungeon_Simple_01 - Misc_33
+  - first:
+      213: -2441180191106421227
+    second: Dungeon_Simple_01 - Misc_34
+  - first:
+      213: -253900827644090485
+    second: Dungeon_Simple_01 - Misc_35
+  - first:
+      213: 7589264483715970966
+    second: Dungeon_Simple_01 - Misc_36
+  - first:
+      213: 8507336250593551925
+    second: Dungeon_Simple_01 - Misc_37
+  - first:
+      213: -7337700754903937181
+    second: Dungeon_Simple_01 - Misc_38
+  - first:
+      213: 5401376351861930942
+    second: Dungeon_Simple_01 - Misc_39
+  - first:
+      213: 6933456180960308718
+    second: Dungeon_Simple_01 - Misc_40
+  - first:
+      213: -5401790342454217713
+    second: Dungeon_Simple_01 - Misc_41
+  - first:
+      213: -126590558507167884
+    second: Dungeon_Simple_01 - Misc_42
+  - first:
+      213: -247320261344573426
+    second: Dungeon_Simple_01 - Misc_43
+  - first:
+      213: -4780451569508953101
+    second: Dungeon_Simple_01 - Misc_44
+  - first:
+      213: 2973783161131347946
+    second: Dungeon_Simple_01 - Misc_45
+  - first:
+      213: 6450780758648773107
+    second: Dungeon_Simple_01 - Misc_46
+  - first:
+      213: 5594059659640377378
+    second: Dungeon_Simple_01 - Misc_47
+  - first:
+      213: 4949485698710102502
+    second: Dungeon_Simple_01 - Misc_48
+  - first:
+      213: -1047939346595568843
+    second: Dungeon_Simple_01 - Misc_49
+  - first:
+      213: -32239502959062537
+    second: Dungeon_Simple_01 - Misc_50
+  - first:
+      213: -2722389905491088376
+    second: Dungeon_Simple_01 - Misc_51
+  - first:
+      213: 1074731544761461525
+    second: Dungeon_Simple_01 - Misc_52
+  - first:
+      213: 8355649015327402665
+    second: Dungeon_Simple_01 - Misc_53
+  - first:
+      213: -1433415432144395501
+    second: Dungeon_Simple_01 - Misc_54
+  - first:
+      213: -4760505240566393597
+    second: Dungeon_Simple_01 - Misc_55
+  - first:
+      213: -7250379658113779072
+    second: Dungeon_Simple_01 - Misc_56
+  - first:
+      213: -4856900175336221210
+    second: Dungeon_Simple_01 - Misc_57
+  - first:
+      213: 5789552899008265091
+    second: Dungeon_Simple_01 - Misc_58
+  - first:
+      213: 5598301932158145580
+    second: Dungeon_Simple_01 - Misc_59
+  - first:
+      213: 6225460750871454920
+    second: Dungeon_Simple_01 - Misc_60
+  - first:
+      213: 5079337559357035344
+    second: Dungeon_Simple_01 - Misc_61
+  - first:
+      213: 6825956101270857840
+    second: Dungeon_Simple_01 - Misc_62
+  - first:
+      213: 3594213283922105127
+    second: Dungeon_Simple_01 - Misc_63
+  - first:
+      213: -4529427660952754068
+    second: Dungeon_Simple_01 - Misc_64
+  - first:
+      213: -2933225723489503993
+    second: Dungeon_Simple_01 - Misc_65
+  - first:
+      213: -98235975180613694
+    second: Dungeon_Simple_01 - Misc_66
+  - first:
+      213: 1120558056527745961
+    second: Dungeon_Simple_01 - Misc_67
+  - first:
+      213: -3201736933367026172
+    second: Dungeon_Simple_01 - Misc_68
+  - first:
+      213: -1912762891288971752
+    second: Dungeon_Simple_01 - Misc_69
+  - first:
+      213: -2208205271534774986
+    second: Dungeon_Simple_01 - Misc_70
+  - first:
+      213: 3756853292464777730
+    second: Dungeon_Simple_01 - Misc_71
+  - first:
+      213: 15817557130929936
+    second: Dungeon_Simple_01 - Misc_72
+  - first:
+      213: 120137969002285323
+    second: Dungeon_Simple_01 - Misc_73
+  - first:
+      213: 6050727012717677208
+    second: Dungeon_Simple_01 - Misc_74
+  - first:
+      213: 4608209937838740507
+    second: Dungeon_Simple_01 - Misc_75
+  - first:
+      213: 1967855341266323434
+    second: Dungeon_Simple_01 - Misc_76
+  - first:
+      213: 4139624186469097009
+    second: Dungeon_Simple_01 - Misc_77
+  - first:
+      213: 129318824119902672
+    second: Dungeon_Simple_01 - Misc_78
+  - first:
+      213: 5706647889263801992
+    second: Dungeon_Simple_01 - Misc_79
+  - first:
+      213: -5477069809378538286
+    second: Dungeon_Simple_01 - Misc_80
+  - first:
+      213: -1370067957105980783
+    second: Dungeon_Simple_01 - Misc_81
+  - first:
+      213: -2900670027851197395
+    second: Dungeon_Simple_01 - Misc_82
+  - first:
+      213: 3265334238286238771
+    second: Dungeon_Simple_01 - Misc_83
+  - first:
+      213: -5417857540492480732
+    second: Dungeon_Simple_01 - Misc_84
+  - first:
+      213: -3168666436454945468
+    second: Dungeon_Simple_01 - Misc_85
+  - first:
+      213: 8143853237471061071
+    second: Dungeon_Simple_01 - Misc_86
+  - first:
+      213: -1430844064034888476
+    second: Dungeon_Simple_01 - Misc_87
+  - first:
+      213: 1917080211490203446
+    second: Dungeon_Simple_01 - Misc_88
+  - first:
+      213: -7686255708181204735
+    second: Dungeon_Simple_01 - Misc_89
+  - first:
+      213: -9047224955384221456
+    second: Dungeon_Simple_01 - Misc_90
+  - first:
+      213: -5025446795138681942
+    second: Dungeon_Simple_01 - Misc_91
+  - first:
+      213: -8439058830169211830
+    second: Dungeon_Simple_01 - Misc_92
+  - first:
+      213: -6981362901743296670
+    second: Dungeon_Simple_01 - Misc_93
+  - first:
+      213: -6196843387335292626
+    second: Dungeon_Simple_01 - Misc_94
+  - first:
+      213: 5652550222041089459
+    second: Dungeon_Simple_01 - Misc_95
+  - first:
+      213: -1056337196256431633
+    second: Dungeon_Simple_01 - Misc_96
+  - first:
+      213: -2497227685079975487
+    second: Dungeon_Simple_01 - Misc_97
+  - first:
+      213: -1102197724195499880
+    second: Dungeon_Simple_01 - Misc_98
+  - first:
+      213: -9047332076692191759
+    second: Dungeon_Simple_01 - Misc_99
+  - first:
+      213: -4059725969669489145
+    second: Dungeon_Simple_01 - Misc_100
+  - first:
+      213: -7922878069534181517
+    second: Dungeon_Simple_01 - Misc_101
+  - first:
+      213: -6133479052163262460
+    second: Dungeon_Simple_01 - Misc_102
+  - first:
+      213: 6543337241055917721
+    second: Dungeon_Simple_01 - Misc_103
+  - first:
+      213: 6864479940685143469
+    second: Dungeon_Simple_01 - Misc_104
+  - first:
+      213: -4301567847452290738
+    second: Dungeon_Simple_01 - Misc_105
+  - first:
+      213: -5060051859329148881
+    second: Dungeon_Simple_01 - Misc_106
+  - first:
+      213: 5836577135648506455
+    second: Dungeon_Simple_01 - Misc_107
+  - first:
+      213: -7399798002011037540
+    second: Dungeon_Simple_01 - Misc_108
+  - first:
+      213: -7894468433696862913
+    second: Dungeon_Simple_01 - Misc_109
+  - first:
+      213: 560730052962838853
+    second: Dungeon_Simple_01 - Misc_110
+  - first:
+      213: -7979590637601417850
+    second: Dungeon_Simple_01 - Misc_111
+  - first:
+      213: -1105538706171111101
+    second: Dungeon_Simple_01 - Misc_112
+  - first:
+      213: 3023335755770331861
+    second: Dungeon_Simple_01 - Misc_113
+  - first:
+      213: -4160865453454742881
+    second: Dungeon_Simple_01 - Misc_114
+  - first:
+      213: -7687924728166285485
+    second: Dungeon_Simple_01 - Misc_115
+  - first:
+      213: 8296845537163079480
+    second: Dungeon_Simple_01 - Misc_116
+  - first:
+      213: 1506816699733273565
+    second: Dungeon_Simple_01 - Misc_117
+  - first:
+      213: -8210384065416937003
+    second: Dungeon_Simple_01 - Misc_118
+  - first:
+      213: -6725895335419173176
+    second: Dungeon_Simple_01 - Misc_119
+  - first:
+      213: -837221615592641454
+    second: Dungeon_Simple_01 - Misc_120
+  - first:
+      213: 1343530718703250953
+    second: Dungeon_Simple_01 - Misc_119
+  - first:
+      213: 5318473213934314552
+    second: Dungeon_Simple_01 - Misc_120
+  - first:
+      213: -5062828902312024626
+    second: Dungeon_Simple_01 - Misc_121
+  - first:
+      213: -7189704409716450284
+    second: Dungeon_Simple_01 - Misc_122
+  - first:
+      213: 8885952982767780127
+    second: Dungeon_Simple_01 - Misc_123
+  - first:
+      213: -3371754541171523194
+    second: Dungeon_Simple_01 - Misc_124
+  - first:
+      213: -4552242667627729273
+    second: Dungeon_Simple_01 - Misc_125
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15aa2dea9209b550800000000000000
+      internalID: 5316199906679643458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c5812dbc1feb880800000000000000
+      internalID: -529814043357651536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e5397fb54b0b570800000000000000
+      internalID: -4300066339907217127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec8f44efa7eb83e0800000000000000
+      internalID: 3745337195348264770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b1d45868074d600800000000000000
+      internalID: -1134417126063140392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07dddbcf52c48190800000000000000
+      internalID: -3665414901559191492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c4806104ac05cf0800000000000000
+      internalID: 1802351807297203345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f939cd0400c0e20800000000000000
+      internalID: -5066774186489454154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c0c373b5c62a5d0800000000000000
+      internalID: -486994012616498923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26191176f8a28e2e0800000000000000
+      internalID: -110814824060581839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d31e0023e61828f0800000000000000
+      internalID: 6995158022895889011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ffcaa8f3156cfe0800000000000000
+      internalID: -1870455136478990916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6721257639f313180800000000000000
+      internalID: 8529195134409145714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af6dfef8aeaaeae0800000000000000
+      internalID: -5600351313709328419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92a6322528af9dd0800000000000000
+      internalID: 1919551030458528979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c8a7f4a33d4f960800000000000000
+      internalID: -777366144241727033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6de2f1b5c108370800000000000000
+      internalID: -6248236324072508624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e643afd5c81a390800000000000000
+      internalID: 1820967211994062456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3026099ed36c599c0800000000000000
+      internalID: 8573778009667460409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c235a9f27454b630800000000000000
+      internalID: 2475766306989430184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7f576a55ffac700800000000000000
+      internalID: 2265273349649703991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d5dd3af3964e720800000000000000
+      internalID: 4014383721106823596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c783dc3e69e8810800000000000000
+      internalID: 5956716354954883227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707cf185302271840800000000000000
+      internalID: 3261645710563790604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0b88e03a65e01e0800000000000000
+      internalID: -9155613613855067995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41583894b5f73d50800000000000000
+      internalID: -3497109192750380189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a5de88eb5a3a160800000000000000
+      internalID: -4292989060466906327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7d215c3197069f0800000000000000
+      internalID: 6922225410952471669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1f6b1b269897bd0800000000000000
+      internalID: 7079603512687142474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f2aa8f317c9d240800000000000000
+      internalID: -5611646191885934004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0aa63f2fb7596df0800000000000000
+      internalID: -8438172773873550440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed50e2c9dd107270800000000000000
+      internalID: 6724792527734593198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3a9acb59c518f60800000000000000
+      internalID: 2495755388910621919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e4551cee0870930800000000000000
+      internalID: 304138652579271145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ea164dc8f2f1ed0800000000000000
+      internalID: 1400532294105507628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87a810ea86f97cf0800000000000000
+      internalID: -4808877044261181694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697f06a96db725960800000000000000
+      internalID: -7283200236395689447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536ae610f31201670800000000000000
+      internalID: 7355320437434762186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fc5db4a004b2a90800000000000000
+      internalID: 2872215735944738950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbfcee9c2b85fa40800000000000000
+      internalID: 9105181701103616179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_40
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed20eb59a5983060800000000000000
+      internalID: -8860250955195951013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0471eead4cf805b0800000000000000
+      internalID: 1270947743888287202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f0348ce824e3ef0800000000000000
+      internalID: -1240227178978640683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08cccc5887519cf0800000000000000
+      internalID: 8355784865965039457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3d57d10ac68adb0800000000000000
+      internalID: 307350028234879065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefa54e7700054920800000000000000
+      internalID: 2863790059244893190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f95f2b1ce6c58950800000000000000
+      internalID: 644322452290827836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22015313f9712ad40800000000000000
+      internalID: 8286069615342276492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1ed7cf40b10b440800000000000000
+      internalID: -6587209678124236695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533240c67b8f471f0800000000000000
+      internalID: 3129860788820952800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1d366c7567d8ff0800000000000000
+      internalID: 3103875071196692709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_51
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c28170ec0283ad0800000000000000
+      internalID: -2717338363070326193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51be96255a63aee00800000000000000
+      internalID: -8542427442283436262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaae62628a35f370800000000000000
+      internalID: -6685540779950610933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313687f424c7b1ce0800000000000000
+      internalID: -1699248517315382200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30597a8b4b94fedb0800000000000000
+      internalID: 4335732619116321361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08af8677d1a716b90800000000000000
+      internalID: 5709809055432748803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e55d830603d89cb0800000000000000
+      internalID: 9789136315421611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b78b1ffaf985050800000000000000
+      internalID: 1916218290910774193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c245bab32f921bd40800000000000000
+      internalID: 315731379164580535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_60
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c464daa197456650800000000000000
+      internalID: 2629632214162725528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05396c7499e6d7640800000000000000
+      internalID: -5774906205448888786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078e8ac98eaaabe50800000000000000
+      internalID: 2922748904486268193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723da2350f531e130800000000000000
+      internalID: 1478585910814134850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_64
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6825115a8d3421c0800000000000000
+      internalID: -4871482613248894157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705be51deb61b47d0800000000000000
+      internalID: -8693028611990500146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7023ba6eef2aef0800000000000000
+      internalID: 7142650080992635295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3d98d8d950d8f00800000000000000
+      internalID: 7365884777966196660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ee86ef8352193d0800000000000000
+      internalID: -4768080436041882595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_69
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816fb2dd8408475e0800000000000000
+      internalID: 5329752236510608927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635560f4101ea51e0800000000000000
+      internalID: 6490795139017641526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_71
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20aae923a26032430800000000000000
+      internalID: -7971425858485426954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017e0020cf1383000800000000000000
+      internalID: -2264442372661986972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_73
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b090b66a8d0daa100800000000000000
+      internalID: -2734559055349965439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ac5e1f82088f350800000000000000
+      internalID: 5831250091667921268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_75
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b149d4be586a3ff30800000000000000
+      internalID: -8179926509950659665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_76
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7c889b10a3f4b10800000000000000
+      internalID: 8653089377888981141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_77
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e1b12d346e27930800000000000000
+      internalID: -2097814130289639507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1207e09ce6bc100800000000000000
+      internalID: 3509931850331929030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_79
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8863dc92506123f40800000000000000
+      internalID: 5121936219483212942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcc9f1f60a8df3b0800000000000000
+      internalID: 6703836704682264206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a8d82b37a8cfce0800000000000000
+      internalID: 4476196209655068473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d249e436affbeb7d0800000000000000
+      internalID: -2804689949310191280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334d8f1703cc05d20800000000000000
+      internalID: 2361405215120590304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f264f9547efc4b0800000000000000
+      internalID: -7681490382185302147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d66631aa2a604d0800000000000000
+      internalID: 5309111344050298590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44a06a1f57c40170800000000000000
+      internalID: 5937138186867322413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4693a97ee942ce0800000000000000
+      internalID: -6597176585538665947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637edc39b46da9a10800000000000000
+      internalID: 2140472096184689924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1017a0d282fe45590800000000000000
+      internalID: 389060120015134799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_90
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0364b56dcc17280800000000000000
+      internalID: -2701222388313559454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_91
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3322a04c6024ab0800000000000000
+      internalID: -9059498066599175164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cf32db4b072ea80800000000000000
+      internalID: 228966501237758881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_93
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f10810e673d1f90800000000000000
+      internalID: -7717270377586678827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29c62185c3600aa0800000000000000
+      internalID: -5034518617273022860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_95
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b580db7a74e17e40800000000000000
+      internalID: 6032493843539039606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_96
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe17a1eaae22751f0800000000000000
+      internalID: 554588517570911775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9798bb6a0185dd0800000000000000
+      internalID: 8258403344287532980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8905511720534b0f0800000000000000
+      internalID: 1278983111994744636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_99
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5c3cb396b617280800000000000000
+      internalID: -2777583258883205906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.8494034, y: 0.5291171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70efb6c6db4f8a7c0800000000000000
+      internalID: 2981616078193589759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_101
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377beaa7f584c0290800000000000000
+      internalID: -1259685701968920348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_102
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40852827c4181eaa0800000000000000
+      internalID: -2101987169835953886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_103
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996f8ba7d8a9eca50800000000000000
+      internalID: -6993965859390752910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad1550f228834f50800000000000000
+      internalID: 7725699394486883555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e415d5b55d2cd44c0800000000000000
+      internalID: 5932830452394292476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2891aba4a517c9b0800000000000000
+      internalID: 177190986256343095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7520f7a3bffaff050800000000000000
+      internalID: 7458899689961570895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90ac784ce2ae4990800000000000000
+      internalID: 7847313699574677058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_109
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dc6f649c6317290800000000000000
+      internalID: -2343995365121016085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5496cb5230d18c700800000000000000
+      internalID: 232182973968743270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_111
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6851cb0c79cc24190800000000000000
+      internalID: 3751950005537552225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349d935776658a0f0800000000000000
+      internalID: 5186564900972660927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_113
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d28d6ff9db05f920800000000000000
+      internalID: 2258774655218454612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9aa2a05ae2a146c0800000000000000
+      internalID: -1681216180121641193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ff4bd21310f4590800000000000000
+      internalID: -2151512949157209025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_116
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fe3e6be01542370800000000000000
+      internalID: -1168346361053760625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_117
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb6a311ec949e410800000000000000
+      internalID: -7470933701328843541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1cb47613bde0e80800000000000000
+      internalID: 881366430545534696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_119
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ee121021e25a210800000000000000
+      internalID: -6725895335419173176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_120
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8342cf7a5330fc940800000000000000
+      internalID: -837221615592641454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec56c17ffe73db9b0800000000000000
+      internalID: -5062828902312024626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_122
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c9aca9ee9093c90800000000000000
+      internalID: -7189704409716450284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_123
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1142b4782f315b70800000000000000
+      internalID: 8885952982767780127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_124
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68149afeb1f1531d0800000000000000
+      internalID: -3371754541171523194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_Simple_01 - Misc_125
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e2ca0a96f23d0c0800000000000000
+      internalID: -4552242667627729273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dungeon_Simple_01 - Misc_38: 2872215735944738950
+      Dungeon_Simple_01 - Misc_6: 1802351807297203345
+      Dungeon_Simple_01 - Misc_122: -7189704409716450284
+      Dungeon_Simple_01 - Misc_62: 2922748904486268193
+      Dungeon_Simple_01 - Misc_10: 6995158022895889011
+      Dungeon_Simple_01 - Misc_113: 2258774655218454612
+      Dungeon_Simple_01 - Misc_121: -5062828902312024626
+      Dungeon_Simple_01 - Misc_100: 2981616078193589759
+      Dungeon_Simple_01 - Misc_49: 3129860788820952800
+      Dungeon_Simple_01 - Misc_58: 1916218290910774193
+      Dungeon_Simple_01 - Misc_101: -1259685701968920348
+      Dungeon_Simple_01 - Misc_76: 8653089377888981141
+      Dungeon_Simple_01 - Misc_85: 5309111344050298590
+      Dungeon_Simple_01 - Misc_57: 9789136315421611
+      Dungeon_Simple_01 - Misc_3: 3745337195348264770
+      Dungeon_Simple_01 - Misc_112: 5186564900972660927
+      Dungeon_Simple_01 - Misc_31: 6724792527734593198
+      Dungeon_Simple_01 - Misc_104: 7725699394486883555
+      Dungeon_Simple_01 - Misc_78: 3509931850331929030
+      Dungeon_Simple_01 - Misc_115: -2151512949157209025
+      Dungeon_Simple_01 - Misc_15: -777366144241727033
+      Dungeon_Simple_01 - Misc_36: -7283200236395689447
+      Dungeon_Simple_01 - Misc_118: 881366430545534696
+      Dungeon_Simple_01 - Misc_48: -6587209678124236695
+      Dungeon_Simple_01 - Misc_67: 7365884777966196660
+      Dungeon_Simple_01 - Misc_17: 1820967211994062456
+      Dungeon_Simple_01 - Misc_28: 7079603512687142474
+      Dungeon_Simple_01 - Misc_46: 644322452290827836
+      Dungeon_Simple_01 - Misc_68: -4768080436041882595
+      Dungeon_Simple_01 - Misc_26: -4292989060466906327
+      Dungeon_Simple_01 - Misc_65: -8693028611990500146
+      Dungeon_Simple_01 - Misc_0: 5316199906679643458
+      Dungeon_Simple_01 - Misc_5: -3665414901559191492
+      Dungeon_Simple_01 - Misc_111: 3751950005537552225
+      Dungeon_Simple_01 - Misc_91: -9059498066599175164
+      Dungeon_Simple_01 - Misc_43: 8355784865965039457
+      Dungeon_Simple_01 - Misc_16: -6248236324072508624
+      Dungeon_Simple_01 - Misc_54: -1699248517315382200
+      Dungeon_Simple_01 - Misc_55: 4335732619116321361
+      Dungeon_Simple_01 - Misc_107: 7458899689961570895
+      Dungeon_Simple_01 - Misc_32: 2495755388910621919
+      Dungeon_Simple_01 - Misc_96: 554588517570911775
+      Dungeon_Simple_01 - Misc_18: 8573778009667460409
+      Dungeon_Simple_01 - Misc_29: -5611646191885934004
+      Dungeon_Simple_01 - Misc_47: 8286069615342276492
+      Dungeon_Simple_01 - Misc_59: 315731379164580535
+      Dungeon_Simple_01 - Misc_13: -5600351313709328419
+      Dungeon_Simple_01 - Misc_108: 7847313699574677058
+      Dungeon_Simple_01 - Misc_23: 3261645710563790604
+      Dungeon_Simple_01 - Misc_21: 4014383721106823596
+      Dungeon_Simple_01 - Misc_77: -2097814130289639507
+      Dungeon_Simple_01 - Misc_39: 9105181701103616179
+      Dungeon_Simple_01 - Misc_97: 8258403344287532980
+      Dungeon_Simple_01 - Misc_75: -8179926509950659665
+      Dungeon_Simple_01 - Misc_64: -4871482613248894157
+      Dungeon_Simple_01 - Misc_84: -7681490382185302147
+      Dungeon_Simple_01 - Misc_25: -3497109192750380189
+      Dungeon_Simple_01 - Misc_53: -6685540779950610933
+      Dungeon_Simple_01 - Misc_45: 2863790059244893190
+      Dungeon_Simple_01 - Misc_99: -2777583258883205906
+      Dungeon_Simple_01 - Misc_50: 3103875071196692709
+      Dungeon_Simple_01 - Misc_24: -9155613613855067995
+      Dungeon_Simple_01 - Misc_89: 389060120015134799
+      Dungeon_Simple_01 - Misc_69: 5329752236510608927
+      Dungeon_Simple_01 - Misc_79: 5121936219483212942
+      Dungeon_Simple_01 - Misc_82: -2804689949310191280
+      Dungeon_Simple_01 - Misc_27: 6922225410952471669
+      Dungeon_Simple_01 - Misc_92: 228966501237758881
+      Dungeon_Simple_01 - Misc_83: 2361405215120590304
+      Dungeon_Simple_01 - Misc_93: -7717270377586678827
+      Dungeon_Simple_01 - Misc_12: 8529195134409145714
+      Dungeon_Simple_01 - Misc_42: -1240227178978640683
+      Dungeon_Simple_01 - Misc_66: 7142650080992635295
+      Dungeon_Simple_01 - Misc_125: -4552242667627729273
+      Dungeon_Simple_01 - Misc_109: -2343995365121016085
+      Dungeon_Simple_01 - Misc_33: 304138652579271145
+      Dungeon_Simple_01 - Misc_14: 1919551030458528979
+      Dungeon_Simple_01 - Misc_105: 5932830452394292476
+      Dungeon_Simple_01 - Misc_20: 2265273349649703991
+      Dungeon_Simple_01 - Misc_7: -5066774186489454154
+      Dungeon_Simple_01 - Misc_34: 1400532294105507628
+      Dungeon_Simple_01 - Misc_116: -1168346361053760625
+      Dungeon_Simple_01 - Misc_19: 2475766306989430184
+      Dungeon_Simple_01 - Misc_37: 7355320437434762186
+      Dungeon_Simple_01 - Misc_120: -837221615592641454
+      Dungeon_Simple_01 - Misc_90: -2701222388313559454
+      Dungeon_Simple_01 - Misc_52: -8542427442283436262
+      Dungeon_Simple_01 - Misc_103: -6993965859390752910
+      Dungeon_Simple_01 - Misc_51: -2717338363070326193
+      Dungeon_Simple_01 - Misc_102: -2101987169835953886
+      Dungeon_Simple_01 - Misc_35: -4808877044261181694
+      Dungeon_Simple_01 - Misc_98: 1278983111994744636
+      Dungeon_Simple_01 - Misc_30: -8438172773873550440
+      Dungeon_Simple_01 - Misc_72: -2264442372661986972
+      Dungeon_Simple_01 - Misc_71: -7971425858485426954
+      Dungeon_Simple_01 - Misc_119: -6725895335419173176
+      Dungeon_Simple_01 - Misc_86: 5937138186867322413
+      Dungeon_Simple_01 - Misc_88: 2140472096184689924
+      Dungeon_Simple_01 - Misc_4: -1134417126063140392
+      Dungeon_Simple_01 - Misc_123: 8885952982767780127
+      Dungeon_Simple_01 - Misc_70: 6490795139017641526
+      Dungeon_Simple_01 - Misc_124: -3371754541171523194
+      Dungeon_Simple_01 - Misc_41: 1270947743888287202
+      Dungeon_Simple_01 - Misc_9: -110814824060581839
+      Dungeon_Simple_01 - Misc_94: -5034518617273022860
+      Dungeon_Simple_01 - Misc_8: -486994012616498923
+      Dungeon_Simple_01 - Misc_44: 307350028234879065
+      Dungeon_Simple_01 - Misc_117: -7470933701328843541
+      Dungeon_Simple_01 - Misc_56: 5709809055432748803
+      Dungeon_Simple_01 - Misc_63: 1478585910814134850
+      Dungeon_Simple_01 - Misc_81: 4476196209655068473
+      Dungeon_Simple_01 - Misc_1: -529814043357651536
+      Dungeon_Simple_01 - Misc_74: 5831250091667921268
+      Dungeon_Simple_01 - Misc_106: 177190986256343095
+      Dungeon_Simple_01 - Misc_80: 6703836704682264206
+      Dungeon_Simple_01 - Misc_40: -8860250955195951013
+      Dungeon_Simple_01 - Misc_11: -1870455136478990916
+      Dungeon_Simple_01 - Misc_22: 5956716354954883227
+      Dungeon_Simple_01 - Misc_73: -2734559055349965439
+      Dungeon_Simple_01 - Misc_87: -6597176585538665947
+      Dungeon_Simple_01 - Misc_60: 2629632214162725528
+      Dungeon_Simple_01 - Misc_114: -1681216180121641193
+      Dungeon_Simple_01 - Misc_110: 232182973968743270
+      Dungeon_Simple_01 - Misc_95: 6032493843539039606
+      Dungeon_Simple_01 - Misc_61: -5774906205448888786
+      Dungeon_Simple_01 - Misc_2: -4300066339907217127
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 099d6bca34eaf754ea15a9aa262bc8b2, type: 3}
+  m_Name: Jail_03
+  m_EditorClassIdentifier: 
+  Actor: {fileID: 11400000, guid: cd4e3a69b7b823144a37febaa828ff91, type: 2}
+  Sentences:
+  - Sentence 3 - Test 1
+  - Sentence 3 - Test 2
+  - Sentence 3 - Test 3
